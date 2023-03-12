@@ -28,6 +28,15 @@ In this project we, a group of 5 members, planned, designed and implemented a cl
 
 For planning and designing the software we made UC, sequence and activity diagrams using UML.
 
+## GUI Snapshots
 
 
+![Screenshot from 2023-03-12 16-57-35](https://user-images.githubusercontent.com/100838871/224553710-d5e80589-8be8-47da-b0de-d8acd2c5fba0.png)
 
+![Screenshot from 2023-03-12 16-58-19](https://user-images.githubusercontent.com/100838871/224553713-3ef7d360-c11d-454c-965c-b29a30e48ac5.png)
+
+![Screenshot from 2023-03-12 17-01-27](https://user-images.githubusercontent.com/100838871/224553718-a6372cfb-2b9e-4c37-a53a-e368337f066b.png)
+
+![Screenshot from 2023-03-12 17-03-45](https://user-images.githubusercontent.com/100838871/224553723-083c1514-8443-4070-b09e-51f273d4094a.png)
+
+![Screenshot from 2023-03-12 17-04-28](https://user-images.githubusercontent.com/100838871/224553727-bc818df3-f4f6-49da-8e09-8cf1a47ae15c.png)
